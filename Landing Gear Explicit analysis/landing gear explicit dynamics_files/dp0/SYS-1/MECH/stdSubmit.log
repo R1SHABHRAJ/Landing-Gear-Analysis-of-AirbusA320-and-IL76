@@ -1,5 +1,0 @@
-Running Solver : D:\CAD CAM CAE Softwares\Ansys Workbench\Install 02\ANSYS Inc\ANSYS Student\v221\aisol\bin\winx64\Ansys.Solvers.Explicit.Launcher.exe -input ".\admodel_0.ad" -exd -double -machines localhost:2
-Checking remote machine response
-admodel
-D:\CAD CAM CAE Softwares\Ansys Workbench\Install 02\ANSYS Inc\ANSYS Student\v221\commonfiles\MPI\Intel\2018.3.210\winx64\bin\mpiexec.exe
--configfile "C:\Users\91998\AppData\Roaming\ANSYS\v221\AUTODYN\applfile"
